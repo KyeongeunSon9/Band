@@ -1,0 +1,19 @@
+:root {
+    --main-color: #21c531;
+    --main-title-background-color: #f6f8fa;
+    --list-background-color: #eef0f3;
+    --footer-background-color: #2a3038;
+    --font-color-green: #2ecc71;
+    --font-color-gray: #666;
+    --font-color-dark-gray: #333;
+    --font-color-dark-gray-2: #444;
+    --slogan-color: #fff;
+    --font-color-white: #fafafa;
+    --font-colot-black: #222;
+    --font-mamber-color: #999;
+    --cookie-a-color: rgba(255,255,255,.7);
+    --cookie-background-color: rgba(34, 34, 34, 0.96);
+    --footer-font: #777;
+    --footer-copyright-color: #b3b3b3;
+    --border-color: #ebebeb;
+}
